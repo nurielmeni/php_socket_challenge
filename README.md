@@ -21,7 +21,7 @@ This is a project that was requested for showing my abilities in PHP:
     big advantage.
 
 ### Built With
-PHP
+PHP, OOP approach
 
 
 
@@ -57,7 +57,11 @@ php ./runClient.php
 
 You can test the availiable commands from the menu that will show on the client screen.
 
+<!-- Roadmap -->
+## Roadmap
 
+For now only the single thred (One connected client) was implemented.
+The multi connection option can be done, if requested.
 
 <!-- CONTACT -->
 ## Contact
